@@ -1,9 +1,9 @@
 # 🧮 Implementation and Analysis of Sorting Algorithms
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/Implementation-and-Analysis-of-Sorting-Algorithms) 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/Implementation-and-Analysis-of-Sorting-Algorithms)
-![GitHub issues](https://img.shields.io/github/issues/your-username/Implementation-and-Analysis-of-Sorting-Algorithms)
-![GitHub license](https://img.shields.io/github/license/your-username/Implementation-and-Analysis-of-Sorting-Algorithms)
+![GitHub last commit](https://img.shields.io/github/last-commit/glorynino/Implementation-and-Analysis-of-Sorting-Algorithms) 
+![GitHub repo size](https://img.shields.io/github/repo-size/glorynino/Implementation-and-Analysis-of-Sorting-Algorithms)
+![GitHub issues](https://img.shields.io/github/issues/glorynino/Implementation-and-Analysis-of-Sorting-Algorithms)
+![GitHub license](https://img.shields.io/github/license/glorynino/Implementation-and-Analysis-of-Sorting-Algorithms)
 
 This repository contains implementations of **sorting algorithms** in multiple programming languages and provides a **detailed analysis of their time and space complexities**. It is designed for **students, developers, and anyone interested in learning about algorithm performance**.
 
@@ -56,5 +56,6 @@ Each algorithm includes **well-commented code** for easier understanding.
 
 1. Clone the repository:  
 ```bash
-git clone [https://github.com/your-username/Implementation-and-Analysis-of-Sorting-Algorithms.git](https://github.com/glorynino/Sorting-Algorithms-Complexity.git)
+git clone https://github.com/glorynino/Sorting-Algorithms-Complexity.git
+
 
