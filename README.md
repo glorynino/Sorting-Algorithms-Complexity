@@ -14,9 +14,7 @@ This repository contains implementations of **sorting algorithms** in multiple p
 - [Algorithms Implemented](#algorithms-implemented)  
 - [Complexity Analysis](#complexity-analysis)  
 - [Usage](#usage)  
-- [Requirements](#requirements)  
-- [Contributing](#contributing)  
-- [License](#license)  
+
 
 ---
 
@@ -58,4 +56,5 @@ Each algorithm includes **well-commented code** for easier understanding.
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/Implementation-and-Analysis-of-Sorting-Algorithms.git
+git clone [https://github.com/your-username/Implementation-and-Analysis-of-Sorting-Algorithms.git](https://github.com/glorynino/Sorting-Algorithms-Complexity.git)
+
