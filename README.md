@@ -1,10 +1,15 @@
-# Implementation and Analysis of Sorting Algorithms
+# 🧮 Implementation and Analysis of Sorting Algorithms
 
-This repository contains implementations of various **sorting algorithms** in different programming languages (e.g., Python, Java, C++) and provides an **analysis of their time and space complexities**. It is intended for educational purposes, helping students and developers understand how different sorting methods work and compare in terms of performance.
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/Implementation-and-Analysis-of-Sorting-Algorithms) 
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/Implementation-and-Analysis-of-Sorting-Algorithms)
+![GitHub issues](https://img.shields.io/github/issues/your-username/Implementation-and-Analysis-of-Sorting-Algorithms)
+![GitHub license](https://img.shields.io/github/license/your-username/Implementation-and-Analysis-of-Sorting-Algorithms)
+
+This repository contains implementations of **sorting algorithms** in multiple programming languages and provides a **detailed analysis of their time and space complexities**. It is designed for **students, developers, and anyone interested in learning about algorithm performance**.
 
 ---
 
-## Table of Contents
+## 🚀 Table of Contents
 
 - [Algorithms Implemented](#algorithms-implemented)  
 - [Complexity Analysis](#complexity-analysis)  
@@ -15,34 +20,42 @@ This repository contains implementations of various **sorting algorithms** in di
 
 ---
 
-## Algorithms Implemented
+## 📚 Algorithms Implemented
 
-The following sorting algorithms are included in this repository:
+The repository includes the following sorting algorithms:
 
-1. **Bubble Sort**  
-2. **Selection Sort**  
-3. **Insertion Sort**  
-4. **Merge Sort**  
-5. **Quick Sort**  
-6. **Heap Sort**  
-7. **Counting Sort**  
-8. **Radix Sort**  
+- **Bubble Sort**  
+- **Selection Sort**  
+- **Insertion Sort**  
+- **Merge Sort**  
+- **Quick Sort**  
+- **Heap Sort**  
+- **Counting Sort**  
+- **Radix Sort**  
 
-Each algorithm is implemented with clear comments and can be run independently.
+Each algorithm includes **well-commented code** for easier understanding.
 
 ---
 
-## Complexity Analysis
+## ⏱️ Complexity Analysis
 
-| Algorithm       | Time Complexity (Best) | Time Complexity (Average) | Time Complexity (Worst) | Space Complexity |
-|-----------------|----------------------|---------------------------|------------------------|----------------|
-| Bubble Sort     | O(n)                 | O(n²)                     | O(n²)                  | O(1)           |
-| Selection Sort  | O(n²)                | O(n²)                     | O(n²)                  | O(1)           |
-| Insertion Sort  | O(n)                 | O(n²)                     | O(n²)                  | O(1)           |
-| Merge Sort      | O(n log n)           | O(n log n)                 | O(n log n)             | O(n)           |
-| Quick Sort      | O(n log n)           | O(n log n)                 | O(n²)                  | O(log n)       |
-| Heap Sort       | O(n log n)           | O(n log n)                 | O(n log n)             | O(1)           |
-| Counting Sort   | O(n+k)               | O(n+k)                     | O(n+k)                 | O(k)           |
-| Radix Sort      | O(nk)                | O(nk)                      | O(nk)                  | O(n+k)         |
+| Algorithm       | Best Case | Average Case | Worst Case | Space Complexity |
+|-----------------|-----------|--------------|------------|----------------|
+| Bubble Sort     | O(n)      | O(n²)        | O(n²)      | O(1)           |
+| Selection Sort  | O(n²)     | O(n²)        | O(n²)      | O(1)           |
+| Insertion Sort  | O(n)      | O(n²)        | O(n²)      | O(1)           |
+| Merge Sort      | O(n log n)| O(n log n)   | O(n log n) | O(n)           |
+| Quick Sort      | O(n log n)| O(n log n)   | O(n²)      | O(log n)       |
+| Heap Sort       | O(n log n)| O(n log n)   | O(n log n) | O(1)           |
+| Counting Sort   | O(n+k)    | O(n+k)       | O(n+k)     | O(k)           |
+| Radix Sort      | O(nk)     | O(nk)        | O(nk)      | O(n+k)         |
 
 > `n` = number of elements, `k` = range of input values
+
+---
+
+## ⚡ Usage
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/your-username/Implementation-and-Analysis-of-Sorting-Algorithms.git
